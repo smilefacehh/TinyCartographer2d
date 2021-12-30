@@ -1,0 +1,12 @@
+//
+// Created by lutao on 2021/12/27.
+//
+
+#ifndef TINYCARTOGRAPHER_CANDIDATE2D_H
+#define TINYCARTOGRAPHER_CANDIDATE2D_H
+
+class Candidate2D
+{
+};
+
+#endif  // TINYCARTOGRAPHER_CANDIDATE2D_H
